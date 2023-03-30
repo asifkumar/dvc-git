@@ -1,0 +1,8 @@
+[core]
+    remote = s3bucket
+['remote "s3aws"']
+    url = s3://dvc-project-e
+['remote "origin"']
+    url = ../git@github.com:asifkumar/dvc-git.git
+['remote "s3bucket"']
+    url = s3://dvc-project-e/
