@@ -1,0 +1,4 @@
+[core]
+    remote = s3qa
+['remote "s3qa"']
+    url = s3://dvc-project-e/
